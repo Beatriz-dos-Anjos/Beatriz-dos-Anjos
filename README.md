@@ -16,4 +16,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Beatriz-dos-Anjos&theme=dracula)](https://git.io/streak-stats)
 
-[![Beatriz's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Beatriz-dos-Anjos&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
