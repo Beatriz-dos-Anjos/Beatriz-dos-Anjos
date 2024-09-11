@@ -16,3 +16,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Beatriz-dos-Anjos&theme=dracula)](https://git.io/streak-stats)
 
+(I'm mainly contributting in closed repositories, in which are used Typescript.) 
+
+
+- 📫 How to reach me: biaanjos2005@gmail.com
