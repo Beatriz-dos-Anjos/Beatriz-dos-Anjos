@@ -12,7 +12,7 @@
 ## About me!
 
 - 🔭 I’m currently working on Software Development, at CITI/UFPE ...
-- 📫 How to reach me: biaanjos2005@gmail.com
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Beatriz-dos-Anjos&theme=dracula)](https://git.io/streak-stats)
 
