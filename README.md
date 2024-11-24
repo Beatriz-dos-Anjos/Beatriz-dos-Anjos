@@ -1,6 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
 
-## My name is Beatriz dos Anjos
 
 <div>
   <a href="https://github.com/Beatriz-dos-Anjos">
